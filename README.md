@@ -2,7 +2,7 @@
 
 2021-1-2
 
-context API, spotify api, react hooks, material UI, firebase auth, responsive
+context API, spotify api(spotify-web-api-js), react hooks, material UI, firebase auth, responsive
 
 https://developer.spotify.com/dashboard/applications, sign up an account and then enter dashboard.
 
