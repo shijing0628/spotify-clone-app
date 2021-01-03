@@ -1,3 +1,14 @@
+### spotify clone app
+
+2021-1-2
+
+context API, spotify api, react hooks, material UI, firebase auth, responsive
+
+https://developer.spotify.com/dashboard/applications, sign up an account and then enter dashboard.
+
+how to create and setup spotify clone on dashboard
+![](2021-01-02-18-51-27.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

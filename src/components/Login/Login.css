@@ -1,0 +1,19 @@
+.login {
+  /* easy to make whole content center in the middle */
+  display: grid;
+  place-items: center;
+  height: 100vh;
+  background-color: #000;
+}
+.login > img {
+  width: 50%;
+}
+
+.login > a {
+  padding: 20px;
+  border-radius: 99px;
+  background-color: #1db954;
+  font-weight: 700;
+  color: #fff;
+  text-decoration: none;
+}
