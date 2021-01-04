@@ -2,6 +2,10 @@
   padding: 0;
   margin: 0;
 }
+/* hide scrollbar but keep function there */
+body::-webkit-scrollbar {
+  display: none;
+}
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
