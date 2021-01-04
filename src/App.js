@@ -35,12 +35,22 @@ function App() {
           user: user
         })
       })
+
       spotify.getUserPlaylists().then(playlists => {
         dispatch({
           type: "SET_PLAYLISTS",
           playlists: playlists
         })
       })
+
+      //web brower login spotify-> search discover weekly, copy top url that id: https://open.spotify.com/playlist/4GpBODwgLjOwL6JcBunQcr
+      spotify.getPlaylist('4GpBODwgLjOwL6JcBunQcr').then(res => {
+        dispatch({
+          type: "SET_DISCOVER_WEEKLY",
+          discover_weekly: res
+        })
+      })
+
     }
 
   }, [])
