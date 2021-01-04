@@ -9,6 +9,15 @@ https://developer.spotify.com/dashboard/applications, sign up an account and the
 how to create and setup spotify clone on dashboard
 ![](2021-01-02-18-51-27.png)
 
+![](2021-01-04-11-58-47.png)
+<br>
+
+![](2021-01-04-11-59-22.png)
+<br>
+
+![](2021-01-04-11-59-57.png)
+<br>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
